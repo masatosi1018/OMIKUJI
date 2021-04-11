@@ -15,6 +15,7 @@ body{
   cursor: pointer;
   box-shadow: 0 10px 0 rgb(172, 0, 0);
   user-select: none;
+  margin-top: 80px;
 }
 #btn:hover{
   opacity: 0.9;
