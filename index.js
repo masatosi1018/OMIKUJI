@@ -7,6 +7,9 @@
     const result = ['大吉','中吉','小吉','吉','凶','大凶']
     const n = Math.floor(Math.random() * result.length);
     btn.textContent = result[n];
+    if(btn.textContent === "大吉"){
+      alert("大吉おめでとう！！")
+    }
     // switch (n){
     //   case 0:
     //     btn.textContent = '大吉';

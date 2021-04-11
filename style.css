@@ -15,12 +15,12 @@ body{
   cursor: pointer;
   box-shadow: 0 10px 0 rgb(172, 0, 0);
   user-select: none;
-  margin-top: 80px;
+  margin-top: 120px;
 }
 #btn:hover{
   opacity: 0.9;
 }
 #btn:active{
   box-shadow: 0 5px 0 rgb(172, 0, 0);
-  margin-top: 35px;
+  margin-top: 125px;
 }
